@@ -151,7 +151,7 @@ All visuals used in the dashboard (cards, bar charts, pie charts, scatter plots,
 - No external images were used. All dashboard design elements are Power BI native.
 
 
-## Acknowledgements (optional)
+## Acknowledgements
 - As Project Manager, I would like to extend my sincere thanks to the entire team for their outstanding collaboration on what was our first group data analytics project. Despite this being a new experience for all of us, the team quickly aligned on responsibilities and demonstrated a strong understanding of the project lifecycle—from ideation through to execution. Each member advanced confidently into their role with analytical thinking, clear communication, and a commitment to delivering high-quality outcomes.
 
 - Throughout the project, we maintained consistent communication via group chats and coordinated live calls to address any challenges or errors as a team. This not only fostered problem-solving but also helped build a collaborative chemistry that strengthened our delivery. The use of Trello as our project board ensured transparency and task alignment, enabling us to stay on track both individually and collectively.
